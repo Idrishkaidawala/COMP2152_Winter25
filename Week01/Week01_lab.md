@@ -1,2 +1,0 @@
-it init
-it status
